@@ -19,7 +19,7 @@ public class Principal {
             new Frequencia(1),
             new Frequencia(0)
         };
-
+ 
         for (int i = 0; i < alunos.length; i++) {
             System.out.println("Aluno: " + alunos[i].nome);
 
